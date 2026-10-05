@@ -1,8 +1,8 @@
-# Privacy policy: Mermaid Diagrams for Confluence
+# Privacy policy: Offline Mermaid Diagrams for Confluence
 
 Last updated: October 5, 2026
 
-Mermaid Diagrams for Confluence ("the app") is published by Connor Prussin, a sole proprietor based in California, USA ("we").
+Offline Mermaid Diagrams for Confluence ("the app") is published by Connor Prussin, a sole proprietor based in California, USA ("we").
 
 ## What the app does with data
 

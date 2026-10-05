@@ -1,8 +1,10 @@
-# End user license agreement: Mermaid Diagrams for Confluence
+# End user license agreement: Offline Mermaid Diagrams for Confluence
 
 Last updated: October 5, 2026
 
-This agreement is between you and Connor Prussin, a sole proprietor based in California, USA ("we"), for Mermaid Diagrams for Confluence ("the app").
+> **Superseded.** The app's Marketplace listing uses the [Bonterms Standard End User Agreement](https://bonterms.com/forms/cloud-terms/) as its EULA. This draft is kept for reference only.
+
+This agreement is between you and Connor Prussin, a sole proprietor based in California, USA ("we"), for Offline Mermaid Diagrams for Confluence ("the app").
 
 1. **License.** The app is licensed, not sold. Your purchase and use are also governed by the [Atlassian Marketplace Terms of Use](https://www.atlassian.com/licensing/marketplace/termsofuse). If the two conflict, the Atlassian terms control.
 2. **Use.** You may use the app on the Atlassian sites and for the number of users your license covers. You may not resell, reverse engineer or redistribute the app except as the law allows.
