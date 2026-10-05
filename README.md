@@ -1,4 +1,4 @@
-# Mermaid Diagrams for Confluence
+# Offline Mermaid Diagrams for Confluence
 
 Render [Mermaid](https://mermaid.js.org/) diagrams (flowcharts, sequence, class, state, ER, Gantt, pie) inside Confluence Cloud pages.
 
